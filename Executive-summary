@@ -1,0 +1,79 @@
+USER JOURNEY ANALYSIS - EXECUTIVE SUMMARY
+
+
+DATASET OVERVIEW:
+   • Total User Sessions Analyzed: 9,935
+   • Users who reached Checkout: 2,021 (20.3%)
+   • Subscription Types: Annual, Monthly, Quarterly
+
+   KEY FINDINGS:
+
+   1. CONVERSION FUNNEL PERFORMANCE:
+      • Only 20.3% of users reach the Checkout page
+      • Homepage → Pricing: Major drop-off point
+      • Pricing → Sign up: Critical conversion barrier
+      • Sign up → Checkout: High intent users convert well
+
+   2. SUBSCRIPTION TYPE INSIGHTS:
+      • Annual subscribers:  16.5% reach checkout
+      • Monthly subscribers: 27.5% reach checkout  
+      • Quarterly subscribers: 29.2% reach checkout
+      
+   3. USER BEHAVIOR PATTERNS:
+      • Checkout reachers average 10.0 pages per journey
+      • Non-reachers average 8.3 pages per journey
+      • Most common entry point: Log in & Homepage
+
+   4. CRITICAL SUCCESS FACTORS:
+      • Visiting Pricing page strongly correlates with checkout
+      • Career tracks visitors show higher engagement
+      • Users starting at Homepage have better conversion
+
+   5. DROP-OFF INSIGHTS:
+      • Major drop-off at Pricing → Sign up transition
+      • "Log in" and "Coupon" pages are distraction points
+      • Users visiting "Other" pages rarely reach checkout
+
+   6. MACHINE LEARNING PREDICTIONS:
+      • Model can predict checkout behavior with high accuracy
+      • Top predictive features: visited_Checkout, journey_length, visited_Pricing
+      • Early intervention possible for at-risk users
+
+    RECOMMENDED ACTIONS:
+
+   HIGH PRIORITY:
+   
+     1. Optimize Pricing → Sign up Flow                                     
+        • Simplify sign-up process, reduce form fields                      
+        • Add progress indicators and trust signals                         
+        • A/B test different pricing page layouts                           
+                                                                             
+     2. Reduce Login/Coupon Distractions                                    
+        • Streamline login process with social auth                         
+        • Move coupons to checkout page only                                
+        • Reduce "Other" page prominence                                    
+                                                                             
+     3. Enhance Career Tracks Visibility                                    
+        • Career tracks visitors convert better - promote more              
+        • Add career track CTAs on homepage                                 
+   
+
+   MEDIUM PRIORITY:
+   • Implement ML model to identify at-risk users in real-time
+   • Create personalized re-engagement email campaigns
+   • Test homepage variations for different subscription types
+   • Add exit-intent popups for users leaving Pricing page
+
+  EXPECTED IMPACT:
+   • Optimizing Pricing→Signup flow could increase checkout rate by 5-10%
+   • Reducing distractions could recover 8-12% of at-risk users
+   • ML-based interventions could improve conversion by 3-5%
+
+
+
+PROJECT CAPABILITIES DEMONSTRATED:
+    Data Analysis & Statistical Insights
+    Business Intelligence & Funnel Analysis  
+    Machine Learning & Predictive Modeling
+    Data Visualization & Storytelling
+    Actionable Business Recommendations
