@@ -35,6 +35,14 @@ This project analyzes user behavior on a subscription-based learning platform to
 - `ml_model_results.png` → ML evaluation results
 - `executive_summary_final.txt` → business insights summary
 
+## Dashboard Preview
+
+![Dashboard](visualization_dashboard.png)
+
+## Machine Learning Results
+
+![ML Results](ml_model_results.png)
+
 ## Acknowledgements
 
 This project was developed with assistance from AI tools for improving structure and debugging:
