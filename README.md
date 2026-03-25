@@ -1,4 +1,4 @@
-# user journey analysis with machine learning
+# User journey analysis with machine learning
 Analyzing user behavior and conversion patterns using Python, with funnel analysis, drop-off detection, and machine learning prediction.
 
 # User Journey Analysis with Machine Learning
